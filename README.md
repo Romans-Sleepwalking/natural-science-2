@@ -14,7 +14,8 @@
 
 ## Labs:
 * 2.2. Investigation of the electric field.
-* 3.7.1. Monochromator.
+* 2.5. Horizontal component of Earth's magnetic field.
+* 3.7.2. Monochromator.
 
 ## Lecture notes:
 * Material science.
